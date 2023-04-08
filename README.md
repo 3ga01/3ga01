@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Omari Mireku Emmanuel
-- 👀 I’m interested in web Development
-- 🌱 I’m currently learning back end Development
-- 💞️ I’m looking to collaborate on javaScript
+- 👋 Hi, I’m Emmanuel Mireku Omari
+- 👀 I’m interested in web Development and Mobile App Development
+- 🌱 I’m currently learning back end Development(Spring Boot)
+- 💞️ I’m looking to collaborate on a Spring-Boot App
 - 📫 How to reach me omariemmanuel91@gmail.com
 
 <!---
