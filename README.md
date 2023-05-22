@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel Mireku Omari
+- 👋 Hi, I’m Emmanuel Mireku Omari.
 - 👀 I’m interested in web Development and Mobile App Development
 - 🌱 I’m currently learning back end Development(Spring Boot)
 - 💞️ I’m looking to collaborate on a Spring-Boot App or Flutter App
