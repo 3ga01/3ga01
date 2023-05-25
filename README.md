@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Mireku Omari.
-- 👀 I’m interested in web Development,Mobile App Development and DSLs.
+- 👀 I’m interested in web Development,Mobile App Development DSLs, Cyber Security and Networking.
 - 🌱 I’m currently learning back end Development(Spring Boot)
 - 💞️ I’m looking to collaborate on a Spring-Boot App or Flutter App
 - 📫 How to reach me omariemmanuel91@gmail.com || +233 241 33 9963/ +233 591 96 1186
