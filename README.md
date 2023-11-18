@@ -8,7 +8,7 @@ I’m interested in web Development,Mobile App Development DSLs, Cyber Security,
 
 * 🌍  I'm based in Accra
 * ✉️  You can contact me at [omariemmanuel91@gmail.com](mailto:omariemmanuel91@gmail.com)
-* 🧠  I'm learning Spring-booot
+* 🧠  I'm learning Spring-boot
 * 🤝  I'm open to collaborating on Spring-Boot App or Flutter App..
 
 ### Skills
