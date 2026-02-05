@@ -3,12 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer
 -------------
-
-I’m interested in web Development, Mobile App Development, DSLs, Cyber Security, Database Management, Cryptography, Networking, and Operation research.
-
-* 🌍  I'm based in Accra.
-* ✉️  You can contact me at [omariemmanuel91@gmail.com](mailto:omariemmanuel91@gmail.com)
-* 🧠  I'm learning Angular
 * 🤝  I'm open to collaborating to projects.
 
 ### Skills
